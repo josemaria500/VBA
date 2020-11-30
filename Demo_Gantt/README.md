@@ -3,7 +3,7 @@
 This VBA macro allows you to create Gantt charts based on the data entered in Excel.
 
 
-![Gantt Gif](https://github.com/josemaria500/VBA/Demo_Gantt/GIF_Gantt.gif)
+![Gantt Gif](https://github.com/josemaria500/VBA/blob/main/Demo_Gantt/GIF_Gantt.gif)
 
 ## Files explanation
 | File | Description |
