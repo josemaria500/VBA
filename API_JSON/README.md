@@ -1,4 +1,4 @@
-# RESTfull API with VBA
+# REST API with VBA
 
 This is an example in VBA that retrieve data from https://openweathermap.org. 
 We make a request to the server and the data is returned in JSON format. Using Javascript functions inside 
