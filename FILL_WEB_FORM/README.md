@@ -12,7 +12,7 @@ After the task is complete, one cell is changed and control returns to Excel VBA
 | File | Description |
 | ------ | ------ |
 | demo.xlsm | Excel file with the data to fill the web form and macro VBA.   |
-| Módulo1.bas | Th Main procedure, call exe file. |
+| Módulo1.bas | The main procedure, call exe file. |
 | Hoja3.cls | Sheet code that detects changes in cells. |
 | demo.py | Python file used to create the exe file. |
 | demo.exe | File that reads Excel and fills the web form. |
